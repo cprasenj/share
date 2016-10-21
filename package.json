@@ -1,0 +1,14 @@
+{
+  "name": "share",
+  "version": "1.0.0",
+  "description": "\"A tool to get share market alert\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasenjit Chakraborty",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.4",
+  }
+}
